@@ -1,4 +1,3 @@
-# douguo-project-1
 
 ## Project setup
 ```
@@ -14,9 +13,6 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 展示
 ![输入图片说明](src/assets/images/erhahome.png)
